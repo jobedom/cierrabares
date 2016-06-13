@@ -2,7 +2,7 @@ cierrabares
 ===========
 
 Small utility to close a certain application when a left click 
-(or a tap) is hold in the upper right corner of the screen.
+(or a tap) is held in the upper right corner of the screen.
 
 `cierrabares.exe` and `cierrabares.ini` should be in the same folder,
 tipically along with the target application.
